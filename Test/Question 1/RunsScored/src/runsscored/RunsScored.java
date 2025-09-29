@@ -71,9 +71,10 @@ public class RunsScored {
                 max = i;
             }
         }
-        System.out.println("Stadium with the miost runs: " + stadium[max]);
+        System.out.println("STADIUM WITH THE MOST RUNS: " + stadium[max]);
         input.close();
     }
 }
     
+
 
